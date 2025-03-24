@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35103.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Login_Register", "Login_Register.pyproj", "{8CCF356A-EE62-458F-8C0E-29C7DC3BF625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCF356A-EE62-458F-8C0E-29C7DC3BF625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCF356A-EE62-458F-8C0E-29C7DC3BF625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1091AE0B-D919-4DBF-B532-2971C58D7175}
+	EndGlobalSection
+EndGlobal
