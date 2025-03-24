@@ -1,4 +1,5 @@
 This project is a simple Login And registration System Written in python.
+
 Features Of this Project:
 - Stores users in a JSON file
 - Passwords are **hashed using SHA-256**
